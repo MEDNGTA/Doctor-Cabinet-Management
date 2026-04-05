@@ -2,7 +2,7 @@
   <img src="public/logo192.png" alt="Cabinet Logo" width="80" />
 </p>
 
-<h1 align="center">Cabinet</h1>
+<h1 align="center">Doctor-Cabinet-Management</h1>
 
 <p align="center">
   <strong>Modern Medical Cabinet Management System</strong><br/>
